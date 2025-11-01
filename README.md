@@ -10,7 +10,7 @@ Habilidades:
 
   Conocimiento sobresaliente en el Inglés (Último Toffel: C1)
   
-  Alumno responsable y dedicado a dar todo 
+  Persona responsable y dedicado a dar todo 
   
   Bases sólidas de programación
   
