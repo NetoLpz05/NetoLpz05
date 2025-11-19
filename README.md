@@ -16,5 +16,6 @@ Habilidades:
   
   Experiencia con el lenguaje Java, SQL, algo de HTML y algo de Python (me gustaría aprender C y C++)
 
-Futuro Puesto:
+Puestos en donde quisiera trabajar:
+
 Me gustaría trabajar en UI/UX Design y Back-end para Java (POO)
