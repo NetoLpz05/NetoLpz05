@@ -14,7 +14,7 @@ Habilidades:
   
   Bases sólidas de programación
   
-  Experiencia con el lenguaje Java, SQL, algo de HTML y algo de Python (me gustaría aprender C y C++)
+  Experiencia con el lenguaje Java, SQL, HTML y algo de Python (Aprendiendo Kotlin) (me gustaría aprender C y C++)
 
 Puestos en donde quisiera trabajar:
 
