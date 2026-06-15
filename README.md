@@ -1,4 +1,5 @@
 <img width="498" height="278" alt="caac2d6ecbb0e60b430e41c9b0c005da" src="https://github.com/user-attachments/assets/c817c80f-b4ef-42ed-a904-e04e99544a51" />
+
 Intereses:
 
   Amo jugar videojuegos mientras escucho música (principalmente Pokémon)
