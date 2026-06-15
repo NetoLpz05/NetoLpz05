@@ -1,6 +1,4 @@
-<img width="498" height="278" alt="caac2d6ecbb0e60b430e41c9b0c005da" src="https://github.com/user-attachments/assets/c817c80f-b4ef-42ed-a904-e04e99544a51" /> <img width="480" height="480" alt="source" src="https://github.com/user-attachments/assets/d492695c-d959-4360-887c-59c0a1ab8ce9" />
-
-
+<img width="498" height="278" alt="caac2d6ecbb0e60b430e41c9b0c005da" src="https://github.com/user-attachments/assets/c817c80f-b4ef-42ed-a904-e04e99544a51" />
 Intereses:
 
   Amo jugar videojuegos mientras escucho música (principalmente Pokémon)
